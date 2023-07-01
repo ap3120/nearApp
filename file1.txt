@@ -1,4 +1,4 @@
 Hello there
-
+This is a new line in file 1
 
 I made some changes too.
