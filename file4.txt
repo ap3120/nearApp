@@ -1,0 +1,1 @@
+I am a new component for feature 2
